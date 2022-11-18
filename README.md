@@ -13,9 +13,8 @@ I am an analytical-minded and self-motivated aspiring Data Scientist who has exc
 - research internships.
 
 
-## 📧 Connect with me:
+## Connect with me:
 
 <p align = "center">
-	
+📧 khushboo.dhullkd@gmail.com	
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/khushboodhull)
-	[<img src="https://icon-library.com/images/gmail-icon-black-and-white/gmail-icon-black-and-white-8.jpg" />](khushboo.dhullkd@gmail.com)
