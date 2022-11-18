@@ -7,7 +7,7 @@ I am on the quest to explore new things, enhancing and expanding my knowledge ea
 
  **I am open to**: 📚
 
-- any collobration work,
+- any collaboration work,
 - machine/deep learning projects(development or research),
 - research internships.
 
